@@ -1,17 +1,19 @@
 # PMU-Permanent-Memory-Unit
-Read only memory like firmware for computer. Basic computer components should have CPU, GPU, RAM, ROM, BIOS (hardware firmware) and PMU (software firmware).
-Permanent Memory Unit-(PMU)
+Read only memory like firmware for computer. Basic computer components should have CPU, GPU, RAM, ROM, BIOS (hardware firmware) and PMU (software firmware). 
+
 # ABSTRACT
 Read only memory like firmware for computer. Basic computer components should have CPU, GPU, RAM, ROM, BIOS (hardware firmware) and PMU (software firmware).
+
 # Keywords
 Data Centers, Computer Design, Performance, Energy Saving, AI, Memory Management.
+
 # INTRODUCTION
 Think of dictionary for possible units for 5 basic senses Vision (Photos, Videos), Hearing (Audio), Touch (Pressure, Texture, Speed), Taste (Chemical Sensors), Smell (Chemical Sensors), later two are complicated but first 3 are already in place.  Let’s understand the problem first to understand Permanent Memory Unit-(PMU).
 
 # STORY
 AI (Artificial Intelligence) still trying to mimic how human thinks based on data provided and trying to solve that problem for bigger in numbers and larger in scale and faster in time to beat Human. 
 
-Computer has problems:
+### Computer has problems:
 CPU	—A central processing Unit that handles most of the mathematic problem
 RAM	—A Temporary storage for read and write to shuffle and load fast.
 ROM	—Actual Storage of Data 
@@ -33,7 +35,19 @@ I am not PHD holder in memory management or storage but that can give you effien
 By doing so, 10MBps 3G speed will beat 100MBps LTE, and 16GB phone will beat 128GB. 
 
 # ARCHITECTURE/DESIGN: --Talk to me 
+
+### What I need from other Developers
+#### Code Any Language---
+  1. Bitmap image util that converts color pixel byte array address to bitmap image--highest bit possibble but minimum 16 bit RGB.
+  2. String Utils that converts Unicode Charactor Byte Array address to String Char.
+  3. Sound Utils that takes address of wave nodes/sound (Frequency) with variable ammplitude...gates and filter will be later
+  4. Touch/Smell/Taste later.
+  
+  
+  
 # Conclusion
+
 1000% in total saving for Networking, storage and energy, PMU can put down part cast by 1000%.
+
 # ACKNOWLEDGMENTS
 Thank You for reading, please give your acknowledgement even if you think it’s silly.
